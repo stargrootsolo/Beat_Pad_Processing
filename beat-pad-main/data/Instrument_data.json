@@ -1,0 +1,190 @@
+[
+    {
+        "type": "bass",
+        "line" : 0,
+        "key" : "q",
+        "link" : "FingerPiano_G1.wav"
+    },
+
+    {
+        "type" : "bass",
+        "line" : 0,
+        "key" : "w",
+        "link" : "FingerPiano_G2.wav"
+    },
+    
+    {
+        "type" : "bass",
+        "line" : 0,
+        "key" : "e",
+        "link" : "FingerPiano_G3.wav"
+    },
+
+    {
+        "type" : "bass",
+        "line" : 0,
+        "key" : "r",
+        "link" : "FingerPiano_G4.wav"
+    },
+
+    {
+        "type": "voix",
+        "line" : 0,
+        "key" : "t",
+        "link" : "another one.mp3"
+    },
+
+    {
+        "type" : "voix",
+        "line" : 0,
+        "key" : "y",
+        "link" : "beat.mp3"
+    },
+    
+    {
+        "type" : "voix",
+        "line" : 0,
+        "key" : "u",
+        "link" : "One.mp3"
+    },
+
+    {
+        "type" : "voix",
+        "line" : 0,
+        "key" : "i",
+        "link" : "one two.mp3"
+    },
+
+    {
+        "type" : "voix",
+        "line" : 0,
+        "key" : "o",
+        "link" : "three.mp3"
+    },
+
+    {
+        "type" : "cymbale",
+        "line" : 0,
+        "key" : "p",
+        "link" : "cymbal-china-stick.wav"
+    },
+
+    {
+        "type" : "cymbale",
+        "line" : 1,
+        "key" : "a",
+        "link" : "cymbal-hihat-open-stick-1.wav"
+    },
+
+    {
+        "type" : "cymbale",
+        "line" : 1,
+        "key" : "s",
+        "link" : "cymbal-ride-bell.wav"
+    },
+
+    {
+        "type" : "drum",
+        "line" : 1,
+        "key" : "d",
+        "link" : "drum-bass-lo-2.wav"
+    },
+
+    {
+        "type" : "drum",
+        "line" : 1,
+        "key" : "f",
+        "link" : "drum-bass-hi-1.wav"
+    },
+
+    {
+        "type" : "drum",
+        "line" : 1,
+        "key" : "g",
+        "link" : "drum-tom-hi-brush.wav"
+    },
+
+    {
+        "type" : "drum",
+        "line" : 1,
+        "key" : "h",
+        "link" : "drum-surdo-large-open.wav"
+    },
+
+    {
+        "type" : "drum",
+        "line" : 1,
+        "key" : "j",
+        "link" : "drum-tom-hi-mallet.wav"
+    },
+    
+    {
+        "type" : "synth",
+        "line" : 1,
+        "key" : "k",
+        "link" : "32_The Meeting_140_bpm_Pad _and_Keys_Ddmin.wav"
+    },
+
+    {
+        "type" : "synth",
+        "line" : 1,
+        "key" : "l",
+        "link" : "35_Titanium_Piano_125-Cdmin.wav"
+    },
+
+    {
+        "type": "piano",
+        "line" : 2,
+        "key" : "z",
+        "link" : "piano_C2.wav"
+    },
+
+    {
+        "type" : "piano",
+        "line" : 2,
+        "key" : "x",
+        "link" : "piano_E2.wav"
+    },
+    
+    {
+        "type" : "piano",
+        "line" : 2,
+        "key" : "c",
+        "link" : "piano_G2.wav"
+    },
+
+    {
+        "type" : "piano",
+        "line" : 2,
+        "key" : "v",
+        "link" : "piano_Eb3.wav"
+    },
+
+    {
+        "type": "piano",
+        "line" : 2,
+        "key" : "b",
+        "link" : "piano_Fd3.wav"
+    },
+
+    {
+        "type" : "piano",
+        "line" : 2,
+        "key" : "n",
+        "link" : "piano_D4.wav"
+    },
+    
+    {
+        "type" : "piano",
+        "line" : 2,
+        "key" : "m",
+        "link" : "piano_B4.wav"
+    },
+    
+    {
+        "type" : "music",
+        "line" : 3,
+        "key" : " ",
+        "link" : "you.mp3"
+    }
+]
